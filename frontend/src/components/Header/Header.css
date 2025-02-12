@@ -2,7 +2,7 @@
     height: 34vw;
     margin: 30px auto;
     background: url('https://extension.illinois.edu/sites/default/files/styles/2_1_banner/public/2023-03/GettyImages-1371318211.jpg?itok=BkpXlpq_') no-repeat;
-    background-size: contain;
+    background-size: cover;
     position: relative;
 }
 
