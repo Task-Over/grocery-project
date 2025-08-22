@@ -4,6 +4,7 @@
     background: url('../../assets/header_banner.png') no-repeat;
     background-size: cover;
     position: relative;
+    border-radius: 10px;
 }
 
 .header-contents{
